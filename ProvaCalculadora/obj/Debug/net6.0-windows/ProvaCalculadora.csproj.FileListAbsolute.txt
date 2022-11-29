@@ -1,0 +1,17 @@
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\bin\Debug\net6.0-windows\ProvaCalculadora.exe
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\bin\Debug\net6.0-windows\ProvaCalculadora.deps.json
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\bin\Debug\net6.0-windows\ProvaCalculadora.runtimeconfig.json
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\bin\Debug\net6.0-windows\ProvaCalculadora.dll
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\bin\Debug\net6.0-windows\ProvaCalculadora.pdb
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ProvaCalculadora.csproj.AssemblyReference.cache
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ProvaCalculadora.Form1.resources
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ProvaCalculadora.csproj.GenerateResource.cache
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ProvaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ProvaCalculadora.AssemblyInfoInputs.cache
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ProvaCalculadora.AssemblyInfo.cs
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ProvaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ProvaCalculadora.dll
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\refint\ProvaCalculadora.dll
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ProvaCalculadora.pdb
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ProvaCalculadora.genruntimeconfig.cache
+C:\Users\lennonsilva\source\repos\POO\ProvaCalculadora\obj\Debug\net6.0-windows\ref\ProvaCalculadora.dll
